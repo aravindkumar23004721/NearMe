@@ -37,7 +37,7 @@ map.html
 <font color="red"><b>Vellore</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Aravind Kumar SS(212223110004)</b></font></h3>
+<font color="blue"><b>Aravind Kumar (212223110004)</b></font></h3>
 <center>
 <img src="map.png" usemap="#MyCity" height="610" width="1450">
 <map name="MyCity">
