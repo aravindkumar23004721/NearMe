@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-
+```
 map.html
 
 <html>
@@ -37,7 +37,7 @@ map.html
 <font color="red"><b>Vellore</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Aravind Kumar (Reg No)</b></font></h3>
+<font color="blue"><b>Aravind Kumar (212223110004)</b></font></h3>
 <center>
 <img src="map.png" usemap="#MyCity" height="610" width="1450">
 <map name="MyCity">
@@ -170,7 +170,7 @@ If you could provide more details or specify which Krishna Nagar you're interest
 </p>
 </body>
 </html>
-
+```
 ## OUTPUT
 ![alt text](1-1.png)
 ![alt text](2-1.png)
