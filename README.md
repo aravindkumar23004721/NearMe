@@ -172,7 +172,7 @@ If you could provide more details or specify which Krishna Nagar you're interest
 </html>
 ```
 ## OUTPUT
-![alt text](1-1.png)
+![WhatsApp Image 2024-03-30 at 20 27 58_3a3b2a1b](https://github.com/aravindkumar23004721/NearMe/assets/148962674/cd851a44-de6d-4b90-8066-b7d61a59d8bd)
 ![alt text](2-1.png)
 ![alt text](3-1.png)
 ![alt text](4-1.png)
