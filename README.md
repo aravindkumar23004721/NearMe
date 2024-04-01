@@ -58,9 +58,9 @@ school.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="red">
+<body bgcolor="orange">
 <h1 align="center">
-<font color="red"><b>Vellore</b></font>
+<font color="black"><b>Vellore</b></font>
 </h1>
 <h3 align="center">
 <font color="blue"><b>Sree Jayam School</b></font>
@@ -81,7 +81,7 @@ college.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="red">
+<body bgcolor="blue">
 <h1 align="center">
 <font color="red"><b>Vellore</b></font>
 </h1>
@@ -104,9 +104,9 @@ place1.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="red">
+<body bgcolor="yellow">
 <h1 align="center">
-<font color="red"><b>Vellore</b></font>
+<font color="black"><b>Vellore</b></font>
 </h1>
 <h3 align="center">
 <font color="blue"><b>Venus cinemas</b></font>
@@ -129,9 +129,9 @@ place2.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="red">
+<body bgcolor="pink">
 <h1 align="center">
-<font color="red"><b>Vellore</b></font>
+<font color="blue"><b>Vellore</b></font>
 </h1>
 <h3 align="center">
 <font color="blue"><b>Blue cinemas</b></font>
@@ -152,7 +152,7 @@ address.html
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="red">
+<body bgcolor="cyan">
 <h1 align="center">
 <font color="red"><b>Vellore</b></font>
 </h1>
