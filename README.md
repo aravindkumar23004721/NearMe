@@ -173,10 +173,11 @@ If you could provide more details or specify which Krishna Nagar you're interest
 ```
 ## OUTPUT
 ![WhatsApp Image 2024-03-30 at 20 27 58_3a3b2a1b](https://github.com/aravindkumar23004721/NearMe/assets/148962674/cd851a44-de6d-4b90-8066-b7d61a59d8bd)
-![alt text](2-1.png)
-![alt text](3-1.png)
-![alt text](4-1.png)
-![alt text](5-1.png)
-![alt text](6-1.png)
+![Screenshot 2024-04-01 135335](https://github.com/aravindkumar23004721/NearMe/assets/148962674/4aa2684c-7af6-4794-8def-c39a91254965)
+![Screenshot 2024-04-01 135125](https://github.com/aravindkumar23004721/NearMe/assets/148962674/ffb519ec-b6cf-4f7a-9142-4ec804c1ec5b)
+![Screenshot 2024-04-01 135501](https://github.com/aravindkumar23004721/NearMe/assets/148962674/f4512347-58a4-4300-8289-010c3b167a3d)
+![Screenshot 2024-04-01 134702](https://github.com/aravindkumar23004721/NearMe/assets/148962674/ca56cfec-f49d-4f0a-b765-dc079e3ad17d)
+![Screenshot 2024-04-01 134840](https://github.com/aravindkumar23004721/NearMe/assets/148962674/c3f36300-af19-4278-9c7d-008592051648)
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
