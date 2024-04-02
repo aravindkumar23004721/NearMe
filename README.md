@@ -172,12 +172,13 @@ If you could provide more details or specify which Krishna Nagar you're interest
 </html>
 ```
 ## OUTPUT
+
 ![WhatsApp Image 2024-03-30 at 20 27 58_3a3b2a1b](https://github.com/aravindkumar23004721/NearMe/assets/148962674/cd851a44-de6d-4b90-8066-b7d61a59d8bd)
-![Screenshot 2024-04-01 135335](https://github.com/aravindkumar23004721/NearMe/assets/148962674/4aa2684c-7af6-4794-8def-c39a91254965)
-![Screenshot 2024-04-01 135125](https://github.com/aravindkumar23004721/NearMe/assets/148962674/ffb519ec-b6cf-4f7a-9142-4ec804c1ec5b)
-![Screenshot 2024-04-01 135501](https://github.com/aravindkumar23004721/NearMe/assets/148962674/f4512347-58a4-4300-8289-010c3b167a3d)
-![Screenshot 2024-04-01 134702](https://github.com/aravindkumar23004721/NearMe/assets/148962674/ca56cfec-f49d-4f0a-b765-dc079e3ad17d)
-![Screenshot 2024-04-01 134840](https://github.com/aravindkumar23004721/NearMe/assets/148962674/c3f36300-af19-4278-9c7d-008592051648)
+![Screenshot 2024-04-02 112440](https://github.com/aravindkumar23004721/NearMe/assets/148962674/9f3185bf-18b7-4125-80ab-cec11c11e4be)
+![Screenshot 2024-04-02 112350](https://github.com/aravindkumar23004721/NearMe/assets/148962674/b3eeeaeb-f1c0-4987-b1e7-e639c6f0a0cb)
+![Screenshot 2024-04-02 112319](https://github.com/aravindkumar23004721/NearMe/assets/148962674/6605965e-8bdc-40d6-891b-d99695ab8385)
+![Screenshot 2024-04-02 112522](https://github.com/aravindkumar23004721/NearMe/assets/148962674/dd458d66-17ca-42af-b778-305635456097)
+![Screenshot 2024-04-02 112414](https://github.com/aravindkumar23004721/NearMe/assets/148962674/0db1d052-523b-460a-8418-1d575671d1f6)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
